@@ -5,7 +5,7 @@ require 'web3/eth/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "web3-eth"
-  spec.version       = Web3::Eth::VERSION
+  spec.version       =  "0.2.16"
   spec.authors       = ["studnev"]
   spec.email         = ["studnev@izx.io"]
 
